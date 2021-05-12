@@ -18,4 +18,4 @@ export const locationData = [
   "importance": 0.741796254253183,
   "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
   }
-]
+];
