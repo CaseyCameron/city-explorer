@@ -30,13 +30,12 @@ describe('API Data Munging', () => {
     }
   ];
 
-  const expectedLocation = [
+  const expectedLocation = 
     {
       "formatted_query": "Oakland, Alameda County, California, USA",
       "latitude": "37.8044557",
       "longitude": "-122.2713563"
-    }
-  ];
+    };
 
   const expectedWeather = [
       {
