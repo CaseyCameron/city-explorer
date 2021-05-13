@@ -1,3 +1,4 @@
+/* eslint-disable */
 export const locationData = [
   {
     "place_id": "236402977",
