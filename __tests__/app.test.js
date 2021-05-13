@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { locationData }  from '../data/location';
 import { yelpData } from '../data/yelp';
 import { weatherData } from '../data/weather';
